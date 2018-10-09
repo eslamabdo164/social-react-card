@@ -1,0 +1,72 @@
+.c_wrapper {
+    width: 90%;
+    margin: auto;
+    font-size: 14px;
+    margin-top: 15px;
+    border: 1px solid #eee;
+    padding: 10px;
+   
+}
+
+._imgPlaceholder {
+    display : block ; 
+    width: 68px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #eee;
+    float: left;
+    margin-right: 30px;
+    overflow: hidden;
+    border: 2px solid #eee;
+}
+._headerData {
+    margin-left: 74px;
+}
+._headerData p {
+    margin: 6px 0 ;
+}
+._headerData .name {
+    font-weight: bold;
+    font-size: 16px;
+}
+._linkHolder {
+    margin-left: 101px;
+    border: 1px solid #eee;
+    border-radius: 10px;
+    min-height: 40%;
+    margin-top: 10px;
+    height: auto;
+}
+._postImage {
+    overflow: hidden;
+    border-radius: 10px;
+}
+._postImage img 
+{
+    width:100%;
+}
+._postTitle ,
+._postDes {
+    margin-left: 10px;
+}
+._postReaction {
+    margin-left: 100px;
+}
+._postReaction  ul {
+    list-style: none;
+}
+._postReaction  ul  li {
+    display: inline-block;
+    width: 20%;
+    font-size: 20px;
+    display: inline-flex;
+
+}
+._postReaction  ul  li  i {
+    font-size: 15px;
+   /*  margin-left: 5px; */
+}
+._postReaction  ul li:nth-child(1) {
+   color: red;
+}
+

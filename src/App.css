@@ -1,0 +1,22 @@
+.App {
+  background-color:#63cdda;
+  min-height: 100vh;
+  height: auto;
+}
+
+.container {
+  width: 55%;
+  margin: auto;
+  background-color: #ecf0f1;
+  padding: 5px;
+}
+
+.card {
+  width: 90%;
+  margin: auto;
+  min-height: 250px;
+  border-radius: 3px;
+  padding: 20px;
+  margin-bottom: 20px ;
+  background-color: #fff;
+}
