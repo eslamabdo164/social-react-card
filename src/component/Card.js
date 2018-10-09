@@ -19,7 +19,7 @@ class Card extends Component {
                <div className='_linkHolder'>
                         <div className='_postImage'>
                         <Postimage />
-                        <p className='_postTitle'>Title placeholder</p> 
+                        <p className='_postTitle'>Title placeholder test</p> 
                         <p className='_postDes'> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et </p>
                         </div>
                 </div>
